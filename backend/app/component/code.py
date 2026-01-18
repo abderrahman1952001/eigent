@@ -2,7 +2,7 @@ success = 0  # success
 error = 1  # common error
 not_found = 4  # can't found route or resource
 
-password = 10  # acount password error
+password = 100  # acount password error
 token_need = 11  # token need
 token_expired = 12  # token expired
 token_invalid = 13  # token invalid
